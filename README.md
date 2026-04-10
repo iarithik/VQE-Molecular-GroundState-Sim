@@ -68,4 +68,12 @@ At the end of the notebook, I have outlined specific "Load Bearing" and "Tangent
 3. Scaling these simulations to execute on real superconducting quantum hardware via Qiskit/Cirq APIs to study the impact of hardware noise on spatial/spin symmetries.
 
 ---
+
+## 📚 Resources & References
+
+This implementation and the foundational quantum chemistry concepts explored within the notebook were adapted from the official PennyLane documentation:
+
+* **Primary Reference:** https://pennylane.ai/qml/demos/tutorial_vqe
+
+---
 *Developed by Rithik Rai.*
